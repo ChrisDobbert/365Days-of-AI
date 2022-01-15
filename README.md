@@ -1,2 +1,2 @@
-# 365DaysOfData-in-AI
-I am sharing my Journey of 365DaysOfData in AI, Machine Learning and Deep Learning
+# 365Days-of-AI
+I am sharing my Journey in AI, Machine Learning and Deep Learning
